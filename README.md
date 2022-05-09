@@ -1,6 +1,9 @@
 # gejak-digital-board
 A manual input board visualizer for the Gejak board game
 
+Try On Itch
+https://monkii-man.itch.io/gejak-board-visualizer
+
 RULES
 
 ​-Archers

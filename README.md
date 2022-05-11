@@ -14,6 +14,13 @@ You can use it just as you would a real board!
 Use the 1-4 keys to select your move type.
 Hold R + click to retreat all archers
 
+Use keys 1-4 to select move type
+
+You can use it just as you would a real board!
+
+Use the 1-4 keys to select your move type.
+Hold R + click to retreat all archers
+
 
 
 Rules
@@ -24,7 +31,7 @@ You have 3 archers to use. On any given turn you can either place a stone, place
 
 Once an archer is placed, it cannot be used again until it is removed from the board.
 
-Archers and stones can't be placed in the flanks (the two outermost files, F and G).​
+Archers and stones can't be placed in the flanks (the two outermost files, F and G).
 
 *You can replace an archer with a normal stone to regain access to the archer without giving up the tile. Do this by clicking on the archer.
 *Or you can retreat all archers, leaving their tiles empty. Do this by clicking while holding R
@@ -37,4 +44,4 @@ If the most recently placed piece is a stone it becomes the color of the side of
 
 Winning and Losing
 
-The game ends when two files are full or 1 tile away from being full. Full or nearly full flanks do not count toward ending the game. Whoever has the most pieces wins!
+The game ends when three files are full or 1 tile away from being full.  Whoever has the most pieces wins!
